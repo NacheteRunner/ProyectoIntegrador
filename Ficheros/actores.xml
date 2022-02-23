@@ -1,0 +1,17 @@
+<StarWars>
+  <Actor id="1">
+    <Nombre>Mark</Nombre>
+    <Apellido>Hamil</Apellido>
+    <Personaje>Luke Skywalker</Personaje>
+  </Actor>
+  <Actor id="2">
+    <Nombre>Harrison</Nombre>
+    <Apellido>Ford</Apellido>
+    <Personaje>Han Solo</Personaje>
+  </Actor>
+  <Actor id="3">
+    <Nombre>Carrie</Nombre>
+    <Apellido>Fisher</Apellido>
+    <Personaje>Leia Organa</Personaje>
+  </Actor>
+</StarWars>

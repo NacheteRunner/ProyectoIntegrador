@@ -1,0 +1,7 @@
+#
+# Generated with Matisse Schema Definition Language 9.1.12
+# Generation date: Thu Jan 20 18:35:24 2022
+#
+# Mapping of Java classes and indexes to the corresponding database schema objects
+#
+actorMattise = modelo.actorMattise
